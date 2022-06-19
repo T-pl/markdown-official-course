@@ -1,2 +1,3 @@
-# markdown-official-course
-Official course about how to use markdown in projects of Github.
+# This is the main Title
+## This is a subtitle
+###### This subtitle its like h6 in HTML syntaxe
